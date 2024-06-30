@@ -11,4 +11,6 @@ body {
   color: #4E5968;
   width: 100dvw;
   height: 100dvh;
+  margin: 0;
+  padding: 0;
 }
